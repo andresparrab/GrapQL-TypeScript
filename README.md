@@ -1,8 +1,5 @@
 # GrapQL-TypeScript Server
 
-
-git clone https://github.com/Alex-Andersson/GrapQL-TypeScript.git
-
 cd GrapQL-TypeScript
 
 npm i  or  npm install 
